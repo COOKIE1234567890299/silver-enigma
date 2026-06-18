@@ -1,0 +1,12 @@
+{
+  "name": "语音角色",
+  "short_name": "语音角色",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#1a1714",
+  "theme_color": "#1a1714",
+  "icons": [
+    { "src": "https://i.postimg.cc/cJ150qC7/6640919ae8ab2ad6dfb6ede64fca611e.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "https://i.postimg.cc/cJ150qC7/6640919ae8ab2ad6dfb6ede64fca611e.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}
